@@ -1,4 +1,4 @@
-# Classifying_Heart_Disease
+# Classifying Heart Disease
 
 ## Overview
 
